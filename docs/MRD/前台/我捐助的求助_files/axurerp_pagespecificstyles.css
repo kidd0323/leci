@@ -1,0 +1,2058 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../我捐助的求助_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:297px;
+    top:144px;
+    width:23px;
+    height:7px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:29px;
+    height:13px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:297px;
+    top:144px;
+    width:23px;
+    height:7px
+}
+
+.u2_original {
+    background-image: url('../我捐助的求助_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:1045px;
+    top:660px;
+    width:60px;
+    height:20px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:66px;
+    height:26px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:1045px;
+    top:660px;
+    width:60px;
+    height:20px
+}
+
+.u4_original {
+    background-image: url('../我捐助的求助_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:1007px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:1007px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u6_original {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u6_container {
+    position:absolute;
+    left:983px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u6_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u7 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:983px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u8_original {
+    background-image: url('../我捐助的求助_files/u4_original.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:911px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:911px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u10_original {
+    background-image: url('../我捐助的求助_files/u4_original.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:934px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:934px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u12_original {
+    background-image: url('../我捐助的求助_files/u4_original.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:888px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u12_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:888px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u14_original {
+    background-image: url('../我捐助的求助_files/u14_original.png');
+}
+
+.u14_container {
+    position:absolute;
+    left:840px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u14_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u15 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:840px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u16_original {
+    background-image: url('../我捐助的求助_files/u4_original.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:864px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u16_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u16 {
+    position:absolute;
+    left:864px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u18_original {
+    background-image: url('../我捐助的求助_files/u4_original.png');
+}
+
+.u18_container {
+    position:absolute;
+    left:957px;
+    top:660px;
+    width:20px;
+    height:20px;
+}
+
+#u18_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:26px;
+}
+
+.u19 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:957px;
+    top:660px;
+    width:20px;
+    height:20px
+}
+
+.u20_line {
+    background-image: url('../求助详情-我捐助的_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:418px;
+    top:472px;
+    width:690px;
+    height:3px;
+}
+
+.u20 {
+    position:absolute;
+    left:418px;
+    top:472px;
+    width:690px;
+    height:3px
+}
+
+.u21_original {
+    background-image: url('../求助详情-我捐助的_files/u21_original.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:418px;
+    top:209px;
+    width:120px;
+    height:120px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:126px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:418px;
+    top:209px;
+    width:120px;
+    height:120px
+}
+
+.u23 {
+    position:absolute;
+    left:553px;
+    top:231px;
+    width:565px;
+    height:60px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:553px;
+    top:209px;
+    width:345px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:554px;
+    top:292px;
+    width:544px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_original {
+    background-image: url('../求助详情-我捐助的_files/u26_original.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:608px;
+    top:295px;
+    width:16px;
+    height:16px;
+}
+
+#u26_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26 {
+    position:absolute;
+    left:608px;
+    top:295px;
+    width:16px;
+    height:16px
+}
+
+.u28_original {
+    background-image: url('../求助详情-我捐助的_files/u28_original.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:752px;
+    top:293px;
+    width:16px;
+    height:16px;
+}
+
+#u28_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:752px;
+    top:293px;
+    width:16px;
+    height:16px
+}
+
+.u30 {
+    position:absolute;
+    left:738px;
+    top:349px;
+    width:160px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:555px;
+    top:314px;
+    width:493px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_hover {
+    background-image: url('../求助详情-我捐助的_files/u32_hover.png');
+}
+
+.u32_disabled {
+    background-image: url('../求助详情-我捐助的_files/u32_disabled.png');
+}
+
+.u32_original {
+    background-image: url('../求助详情-我捐助的_files/u32_original.png');
+}
+
+.u32_container {
+    position:absolute;
+    left:418px;
+    top:378px;
+    width:690px;
+    height:31px;
+}
+
+#u32_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:696px;
+    height:37px;
+}
+
+.u33 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:686px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:418px;
+    top:378px;
+    width:690px;
+    height:31px
+}
+
+.u34_original {
+    background-image: url('../求助详情-我捐助的_files/u34_original.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:750px;
+    top:369px;
+    width:28px;
+    height:17px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:34px;
+    height:23px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:24px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:750px;
+    top:369px;
+    width:28px;
+    height:17px
+}
+
+.u36_line {
+    background-image: url('../求助详情-我捐助的_files/u36_line.png');
+}
+
+.u36_line {
+    position:absolute;
+    left:408px;
+    top:653px;
+    width:700px;
+    height:3px;
+}
+
+.u36 {
+    position:absolute;
+    left:408px;
+    top:653px;
+    width:700px;
+    height:3px
+}
+
+.u37_original {
+    background-image: url('../求助详情-我捐助的_files/u21_original.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:418px;
+    top:488px;
+    width:120px;
+    height:120px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:126px;
+    height:126px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:418px;
+    top:488px;
+    width:120px;
+    height:120px
+}
+
+.u39 {
+    position:absolute;
+    left:553px;
+    top:510px;
+    width:555px;
+    height:60px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:553px;
+    top:488px;
+    width:345px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:554px;
+    top:569px;
+    width:544px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_original {
+    background-image: url('../求助详情-我捐助的_files/u26_original.png');
+}
+
+.u42_container {
+    position:absolute;
+    left:608px;
+    top:568px;
+    width:16px;
+    height:16px;
+}
+
+#u42_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:608px;
+    top:568px;
+    width:16px;
+    height:16px
+}
+
+.u44_original {
+    background-image: url('../求助详情-我捐助的_files/u28_original.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:752px;
+    top:571px;
+    width:16px;
+    height:16px;
+}
+
+#u44_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:16px;
+    height:16px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:12px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:752px;
+    top:571px;
+    width:16px;
+    height:16px
+}
+
+.u46 {
+    position:absolute;
+    left:555px;
+    top:587px;
+    width:493px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47_original {
+    background-image: url('../求助详情-我捐助的_files/u47_original.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:1066px;
+    top:353px;
+    width:7px;
+    height:5px;
+}
+
+#u47_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:13px;
+    height:11px;
+}
+
+.u48 {
+    position:absolute;
+    left:2px;
+    top:-6px;
+    width:3px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:1066px;
+    top:353px;
+    width:7px;
+    height:5px
+}
+
+.u49 {
+    position:absolute;
+    left:748px;
+    top:629px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_original {
+    background-image: url('../求助详情-我捐助的_files/u50_original.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:557px;
+    top:345px;
+    width:70px;
+    height:25px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:66px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:557px;
+    top:345px;
+    width:70px;
+    height:25px
+}
+
+.u52_original {
+    background-image: url('../求助详情-我捐助的_files/u50_original.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:557px;
+    top:623px;
+    width:70px;
+    height:25px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:66px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:557px;
+    top:623px;
+    width:70px;
+    height:25px
+}
+
+.u54 {
+    position:absolute;
+    left:638px;
+    top:349px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:648px;
+    top:629px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56_original {
+    background-image: url('../求助详情-我捐助的_files/u50_original.png');
+}
+
+.u56_container {
+    position:absolute;
+    left:638px;
+    top:346px;
+    width:70px;
+    height:25px;
+}
+
+#u56_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u57 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:638px;
+    top:346px;
+    width:70px;
+    height:25px
+}
+
+.u58_original {
+    background-image: url('../求助详情-我捐助的_files/u50_original.png');
+}
+
+.u58_container {
+    position:absolute;
+    left:638px;
+    top:624px;
+    width:70px;
+    height:25px;
+}
+
+#u58_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:76px;
+    height:31px;
+}
+
+.u59 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:638px;
+    top:624px;
+    width:70px;
+    height:25px
+}
+
+.u61_original {
+    background-image: url('../我捐助的求助_files/u0_original.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:298px;
+    top:152px;
+    width:23px;
+    height:7px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:29px;
+    height:13px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:-4px;
+    width:19px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:298px;
+    top:152px;
+    width:23px;
+    height:7px
+}
+
+.u63_original {
+    background-image: url('../我捐助的求助_files/u63_original.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:203px;
+    top:185px;
+    width:180px;
+    height:475px;
+}
+
+#u63_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:481px;
+}
+
+.u64 {
+    position:absolute;
+    left:2px;
+    top:230px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:203px;
+    top:185px;
+    width:180px;
+    height:475px
+}
+
+.u65_text {
+    position:absolute;
+    left:220px;
+    top:309px;
+    width:84px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:220px;
+    top:309px;
+    width:84px;
+    height:20px
+}
+
+.u66_text {
+    position:absolute;
+    left:222px;
+    top:272px;
+    width:84px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:222px;
+    top:272px;
+    width:84px;
+    height:20px
+}
+
+.u67_original {
+    background-image: url('../我捐助的求助_files/u67_original.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:202px;
+    top:221px;
+    width:180px;
+    height:37px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:43px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:202px;
+    top:221px;
+    width:180px;
+    height:37px
+}
+
+.u69 {
+    position:absolute;
+    left:222px;
+    top:231px;
+    width:110px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70_original {
+    background-image: url('../顶导航_files/u198_original.png');
+}
+
+.u70_container {
+    position:absolute;
+    left:0px;
+    top:9px;
+    width:1350px;
+    height:137px;
+}
+
+#u70_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1356px;
+    height:143px;
+}
+
+.u71 {
+    position:absolute;
+    left:2px;
+    top:60px;
+    width:1346px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u70 {
+    position:absolute;
+    left:0px;
+    top:9px;
+    width:1350px;
+    height:137px
+}
+
+.u72_original {
+    background-image: url('../顶导航_files/u200_original.png');
+}
+
+.u72_container {
+    position:absolute;
+    left:0px;
+    top:108px;
+    width:1350px;
+    height:36px;
+}
+
+#u72_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1356px;
+    height:42px;
+}
+
+.u73 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:1346px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:0px;
+    top:108px;
+    width:1350px;
+    height:36px
+}
+
+.u74_text {
+    position:absolute;
+    left:263px;
+    top:38px;
+    width:150px;
+    height:35px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:263px;
+    top:38px;
+    width:150px;
+    height:35px
+}
+
+.u75_original {
+    background-image: url('../顶导航_files/u203_original.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:213px;
+    top:44px;
+    width:41px;
+    height:42px;
+}
+
+#u75_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:47px;
+    height:48px;
+}
+
+.u76 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:37px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:213px;
+    top:44px;
+    width:41px;
+    height:42px
+}
+
+.u77_text {
+    position:absolute;
+    left:263px;
+    top:71px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:263px;
+    top:71px;
+    width:150px;
+    height:16px
+}
+
+.u78_text {
+    position:absolute;
+    left:216px;
+    top:114px;
+    width:40px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:216px;
+    top:114px;
+    width:40px;
+    height:20px
+}
+
+.u79_text {
+    position:absolute;
+    left:290px;
+    top:114px;
+    width:92px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:290px;
+    top:114px;
+    width:92px;
+    height:20px
+}
+
+.u80_text {
+    position:absolute;
+    left:378px;
+    top:116px;
+    width:92px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:378px;
+    top:116px;
+    width:92px;
+    height:20px
+}
+
+.u81_original {
+    background-image: url('../顶导航_files/u209_original.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:1057px;
+    top:109px;
+    width:75px;
+    height:36px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:81px;
+    height:42px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:71px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:1057px;
+    top:109px;
+    width:75px;
+    height:36px
+}
+
+.u83_original {
+    background-image: url('../顶导航_files/u211_original.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:400px;
+    top:138px;
+    width:20px;
+    height:10px;
+}
+
+#u83_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:26px;
+    height:16px;
+}
+
+.u84 {
+    position:absolute;
+    left:2px;
+    top:-3px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:400px;
+    top:138px;
+    width:20px;
+    height:10px
+}
+
+.u86_original {
+    background-image: url('../顶导航_files/u214_original.png');
+}
+
+.u86_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:330px;
+}
+
+#u86_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:156px;
+    height:336px;
+}
+
+.u87 {
+    position:absolute;
+    left:2px;
+    top:157px;
+    width:146px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:150px;
+    height:330px
+}
+
+.u88_original {
+    background-image: url('../顶导航_files/u216_original.png');
+}
+
+.u88_container {
+    position:absolute;
+    left:1px;
+    top:8px;
+    width:148px;
+    height:30px;
+}
+
+#u88_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:36px;
+}
+
+.u89 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:1px;
+    top:8px;
+    width:148px;
+    height:30px
+}
+
+.u90_text {
+    position:absolute;
+    left:21px;
+    top:107px;
+    width:87px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:21px;
+    top:107px;
+    width:87px;
+    height:20px
+}
+
+.u91_text {
+    position:absolute;
+    left:21px;
+    top:45px;
+    width:87px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:21px;
+    top:45px;
+    width:87px;
+    height:20px
+}
+
+.u92_text {
+    position:absolute;
+    left:21px;
+    top:77px;
+    width:87px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:21px;
+    top:77px;
+    width:87px;
+    height:20px
+}
+
+.u93 {
+    position:absolute;
+    left:20px;
+    top:20px;
+    width:150px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:866px;
+    top:19px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:1032px;
+    top:14px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u95_text_sketch {
+    font-family: 'Applied Font';
+}
+
+.u97_original {
+    background-image: url('../我捐助的求助_files/u97_original.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:200px;
+    top:720px;
+    width:948px;
+    height:80px;
+}
+
+#u97_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:954px;
+    height:86px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:32px;
+    width:944px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:200px;
+    top:720px;
+    width:948px;
+    height:80px
+}
+
+.u99 {
+    position:absolute;
+    left:206px;
+    top:750px;
+    width:920px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100 {
+    position:absolute;
+    left:1050px;
+    top:205px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101 {
+    position:absolute;
+    left:1040px;
+    top:490px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102_original {
+    background-image: url('../我捐助的求助_files/u102_original.png');
+}
+
+.u102_container {
+    position:absolute;
+    left:1160px;
+    top:240px;
+    width:710px;
+    height:190px;
+}
+
+#u102_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:716px;
+    height:196px;
+}
+
+.u103 {
+    position:absolute;
+    left:2px;
+    top:79px;
+    width:706px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:1160px;
+    top:240px;
+    width:710px;
+    height:190px
+}
+
+.u104_text {
+    position:absolute;
+    left:219px;
+    top:195px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:219px;
+    top:195px;
+    width:150px;
+    height:19px
+}
+

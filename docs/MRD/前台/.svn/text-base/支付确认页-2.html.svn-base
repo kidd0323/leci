@@ -1,0 +1,178 @@
+<HTML><HEAD>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="imagetoolbar" content="no">
+<link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet">
+<link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet">
+<link href="支付确认页-2_files/axurerp_pagespecificstyles.css" type="text/css" rel="stylesheet">
+<!--[if IE 6]>
+<link href="支付确认页-2_files/axurerp_pagespecificstyles_ie6.css" type="text/css" rel="stylesheet">
+<![endif]-->
+<SCRIPT src="resources/scripts/jquery-1.4.2.min.js"></SCRIPT>
+<SCRIPT src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></SCRIPT>
+<SCRIPT src="resources/scripts/axurerp_beforepagescript.js"></SCRIPT>
+<SCRIPT src="resources/scripts/messagecenter.js"></SCRIPT>
+</HEAD>
+<BODY>
+<DIV class="main_container">
+
+<DIV id=u0_container class="u0_container">
+<DIV id="u0_img" class="u0_original"></DIV>
+<DIV id=u1 class="u1" >
+<DIV id=u1_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u0 src="resources/images/transparent.gif" class="u0"    >
+
+<DIV id=u2_container class="u2_container">
+<DIV id="u2_img" class="u2_original"></DIV>
+<DIV id=u3 class="u3" >
+<DIV id=u3_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u2 src="resources/images/transparent.gif" class="u2"    >
+
+<DIV id=u4 class="u4" >
+<DIV id=u4_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">捐款项目：</span><span style="font-family:Applied Font;font-size:14px;font-weight:bold;font-style:normal;text-decoration:none;color:#000000;">幸福家园生态扶贫全民行动</span></p></DIV></DIV>
+<DIV id=u5 class="u5" >
+<DIV id=u5_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">您捐助的 </span><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#CC0000;">￥50.00 </span><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">元将直接支付给 中国红十字会</span></p></DIV></DIV>
+<DIV id=u6 class="u6" >
+<DIV id=u6_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">支付金额：￥50.00</span></p></DIV></DIV>
+<INPUT id=u7 type=submit class="u7 u7_text_sketch" value="去网上银行付款"  >
+
+<DIV id=u8 class="u8" >
+<DIV id=u8_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#0000FF;">重新选择捐助金额</span></p></DIV></DIV>
+<DIV id=u9_container class="u9_container">
+<DIV id="u9_img" class="u9_original"></DIV>
+<DIV id=u10 class="u10" >
+<DIV id=u10_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u9 src="resources/images/transparent.gif" class="u9"    >
+
+<DIV id=u11 class="u11" >
+<DIV id=u11_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">付款方式：</span></p></DIV></DIV>
+<DIV id=u12 class="u12" >
+<DIV id=u12_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:12px;font-weight:normal;font-style:normal;text-decoration:none;color:#0000FF;">重新选择付款方式</span></p></DIV></DIV>
+<DIV id=u13_container class="u13_container">
+<DIV id="u13_img" class="u13_original"></DIV>
+<DIV id=u14 class="u14" >
+<DIV id=u14_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u13 src="resources/images/transparent.gif" class="u13"    >
+
+<DIV id=u15_container class="u15_container">
+<DIV id="u15_img" class="u15_original"></DIV>
+<DIV id=u16 class="u16" >
+<DIV id=u16_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u15 src="resources/images/transparent.gif" class="u15"    >
+
+<INPUT id=u17 type=submit class="u17 u17_text_sketch" value="已成功完成支付"  >
+
+<INPUT id=u18 type=submit class="u18 u18_text_sketch" value="支付遇到问题，继续支付"  >
+
+<DIV id=u19_container class="u19_container">
+<DIV id="u19_img" class="u19_original"></DIV>
+<DIV id=u20 class="u20" >
+<DIV id=u20_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u19 src="resources/images/transparent.gif" class="u19"    >
+
+<DIV id=u21_container class="u21_container">
+<DIV id="u21_img" class="u21_original"></DIV>
+<DIV id=u22 class="u22" >
+<DIV id=u22_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u21 src="resources/images/transparent.gif" class="u21"    >
+
+<DIV id=u23_text class="u23_text" >
+<DIV id=u23_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:26px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">慈善</span></p></DIV></DIV>
+<INPUT type="image" id=u23 src="resources/images/transparent.gif" class="u23"    >
+
+<DIV id=u24_container class="u24_container">
+<DIV id="u24_img" class="u24_original"></DIV>
+<DIV id=u25 class="u25" >
+<DIV id=u25_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<INPUT type="image" id=u24 src="resources/images/transparent.gif" class="u24"    >
+
+<DIV id=u26_text class="u26_text" >
+<DIV id=u26_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:10px;font-weight:normal;font-style:normal;text-decoration:none;color:#666666;">CiShan.cn</span></p></DIV></DIV>
+<INPUT type="image" id=u26 src="resources/images/transparent.gif" class="u26"    >
+
+<DIV id=u27_text class="u27_text" >
+<DIV id=u27_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">首页</span></p></DIV></DIV>
+<INPUT type="image" id=u27 src="resources/images/transparent.gif" class="u27"    >
+
+<DIV id=u28_text class="u28_text" >
+<DIV id=u28_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">公益项目</span></p></DIV></DIV>
+<INPUT type="image" id=u28 src="resources/images/transparent.gif" class="u28"    >
+
+<DIV id=u29_text class="u29_text" >
+<DIV id=u29_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">我的公益</span></p></DIV></DIV>
+<INPUT type="image" id=u29 src="resources/images/transparent.gif" class="u29"    >
+
+<DIV id=u30_container class="u30_container">
+<DIV id="u30_img" class="u30_original"></DIV>
+<DIV id=u31 class="u31" >
+<DIV id=u31_rtf><p style="text-align:center;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">求助</span></p></DIV></DIV>
+</DIV>
+<INPUT type="image" id=u30 src="resources/images/transparent.gif" class="u30"    >
+
+<DIV id=u32_container class="u32_container">
+<DIV id="u32_img" class="u32_original"></DIV>
+<DIV id=u33 class="u33" >
+<DIV id=u33_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u32 src="resources/images/transparent.gif" class="u32"    >
+
+<DIV id=u34 style="visibility:hidden; position:absolute; left:350px; top:142px; width:171px; height:369px;; overflow:hidden; ">
+<DIV id=pd0u34 style="position:absolute; left:0px; top:0px; width:1px; height:1px; ;">
+<DIV id=u35_container class="u35_container">
+<DIV id="u35_img" class="u35_original"></DIV>
+<DIV id=u36 class="u36" >
+<DIV id=u36_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u35 src="resources/images/transparent.gif" class="u35"    >
+
+<DIV id=u37_container class="u37_container">
+<DIV id="u37_img" class="u37_original"></DIV>
+<DIV id=u38 class="u38" >
+<DIV id=u38_rtf>&nbsp;</DIV></DIV>
+</DIV>
+<IMG id=u37 src="resources/images/transparent.gif" class="u37"    >
+
+<DIV id=u39_text class="u39_text" >
+<DIV id=u39_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">我发起的求助</span></p></DIV></DIV>
+<INPUT type="image" id=u39 src="resources/images/transparent.gif" class="u39"    >
+
+<DIV id=u40_text class="u40_text" >
+<DIV id=u40_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">我捐助的求助</span></p></DIV></DIV>
+<INPUT type="image" id=u40 src="resources/images/transparent.gif" class="u40"    >
+
+<DIV id=u41_text class="u41_text" >
+<DIV id=u41_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">我支持的求助</span></p></DIV></DIV>
+<INPUT type="image" id=u41 src="resources/images/transparent.gif" class="u41"    >
+
+<DIV id=u42 class="u42" >
+<DIV id=u42_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:14px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">我的公益主页</span></p></DIV></DIV>
+</DIV>
+</DIV>
+<DIV id=u43 class="u43" >
+<DIV id=u43_rtf><p style="text-align:left;"><span style="font-family:Applied Font;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">您好，欢迎参与慈善公益 </span></p></DIV></DIV>
+<INPUT id=u44 type=submit class="u44 u44_text_sketch" value="用户登录"  >
+
+<DIV id=u45 style="border-style:dotted; border-color:red; visibility:hidden;; position:absolute; left:0px; top:0px; width:1350px; height:510px;;"></div></DIV>
+<DIV class=preload>
+<img src="支付确认页-2_files/u0_original.png" width="1" height="1"/>
+<img src="支付确认页-2_files/u2_original.png" width="1" height="1"/>
+<img src="支付确认页-2_files/u9_original.png" width="1" height="1"/>
+<img src="支付确认页-2_files/u13_original.png" width="1" height="1"/>
+<img src="支付确认页-2_files/u15_original.png" width="1" height="1"/>
+<img src="顶导航_files/u198_original.png" width="1" height="1"/>
+<img src="顶导航_files/u200_original.png" width="1" height="1"/>
+<img src="顶导航_files/u203_original.png" width="1" height="1"/>
+<img src="顶导航_files/u209_original.png" width="1" height="1"/>
+<img src="顶导航_files/u211_original.png" width="1" height="1"/>
+<img src="顶导航_files/u214_original.png" width="1" height="1"/>
+<img src="顶导航_files/u216_original.png" width="1" height="1"/></DIV>
+</BODY>
+<SCRIPT src="resources/scripts/axurerp_pagescript.js"></SCRIPT>
+<SCRIPT src="支付确认页-2_files/axurerp_pagespecificscript.js" charset="utf-8"></SCRIPT>

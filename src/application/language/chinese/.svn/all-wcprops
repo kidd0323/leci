@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cishan/!svn/ver/403/src/application/language/chinese
+END
+number_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cishan/!svn/ver/42/src/application/language/chinese/number_lang.php
+END
+calendar_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cishan/!svn/ver/42/src/application/language/chinese/calendar_lang.php
+END
+ftp_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cishan/!svn/ver/42/src/application/language/chinese/ftp_lang.php
+END
+migration_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cishan/!svn/ver/42/src/application/language/chinese/migration_lang.php
+END
+date_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cishan/!svn/ver/42/src/application/language/chinese/date_lang.php
+END
+form_validation_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cishan/!svn/ver/403/src/application/language/chinese/form_validation_lang.php
+END
+unit_test_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cishan/!svn/ver/42/src/application/language/chinese/unit_test_lang.php
+END
+profiler_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cishan/!svn/ver/42/src/application/language/chinese/profiler_lang.php
+END
+imglib_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cishan/!svn/ver/42/src/application/language/chinese/imglib_lang.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cishan/!svn/ver/42/src/application/language/chinese/index.html
+END
+upload_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cishan/!svn/ver/302/src/application/language/chinese/upload_lang.php
+END
+db_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cishan/!svn/ver/42/src/application/language/chinese/db_lang.php
+END
+my_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cishan/!svn/ver/42/src/application/language/chinese/my_lang.php
+END
+email_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cishan/!svn/ver/42/src/application/language/chinese/email_lang.php
+END

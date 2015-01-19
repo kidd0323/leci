@@ -1,0 +1,41 @@
+.rightColumn{
+	background-color:#e7f5f6;
+	padding:5px 10px;
+	color: #757575;
+}
+
+.legend {
+	background-color:#7dccd9;
+	height:20px;
+	color:white; 
+	font-weight:bold;
+	font-size:15px;
+	padding-top: 10px;
+}
+.legend span {
+	padding:10px 15px;
+}
+.legend a{
+	color:white;
+	padding-left:15px;
+}
+.contentMiddle{
+	border:1px solid #7dccd9;
+	padding: 10px 10px;
+	background-color:#faffe1;
+}
+.proTitle {
+	height: auto;
+}
+.proShortDes {
+	height: 50px;
+}
+
+
+
+.prjLabel {
+	color:#a4a4a4;
+}
+.prjInfo {
+	color:#1a4683;
+}

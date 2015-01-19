@@ -1,0 +1,10 @@
+.horizental_center {
+	margin:auto auto;
+	text-align:center;
+	color:#2F8DB0;
+}
+.word_color {
+	color:#2F8DB0;
+	font-size:16px;
+	line-height:30px;
+}

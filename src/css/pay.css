@@ -1,0 +1,43 @@
+.bankicon{
+	margin-left:5px;
+	background-image:url(../images/bank_icon.png);
+	display:inline-block;
+	width:123px;
+	height:30px;
+	text-indent:-9999em;
+	vertical-align:middle;
+	border:1px solid #ddd;
+	overflow:hidden;
+	cursor:pointer;
+}
+.ICBC{background-position:0 -40px;}
+.CMB{background-position:0 -80px;}
+.CCB{background-position:0 -320px;}
+.BOC{background-position:0 -520px;}
+.ABC{background-position:0 -480px;}
+.COMM{background-position:0 -600px;}
+.YZbank{background-position:0 -400px;}
+.CEB{background-position:0 -440px;}
+.CMBC{background-position:0 -120px;}
+.SZDB{background-position:0 -240px;}
+.SPDB{background-position:0 -360px;}
+.DYB{background-position:0 -160px;}
+.CGB{background-position:0 -280px;}
+.CITIC{background-position:0 -200px;}
+.HXBANK{background-position:0 -680px;}
+.CIB{background-position:0 -640px;}
+.NCXYB{background-position:0 -3405px;}
+.GZB{background-position:0 -2720px;}
+.SHRCB{background-position:0 -2480px;}
+.BJBANK{background-position:0 -3240px;}
+.YZCXB{background-position:0 -400px;}
+.BHB{background-position:0 -560px;}
+.BJRCB{background-position:0 -2640px;}
+.HSB{background-position:0 -880px;}
+.SPABANK{background-position:0 -1880px;}
+.HZB{background-position:0 -760px;}
+.NJB{background-position:0 -920px;}
+.SHB{background-position:0 -840px;}
+.ZSB{background-position:0 -1040px;}
+.NBB{background-position:0 -1240px;}
+.Alipay{background:url(../images/alipay.png);}

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cishan/!svn/ver/472/src/application/views/user
+END
+info.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cishan/!svn/ver/471/src/application/views/user/info.php
+END
+crop_photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cishan/!svn/ver/472/src/application/views/user/crop_photo.php
+END
+upload_photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cishan/!svn/ver/461/src/application/views/user/upload_photo.php
+END
+resend_confirm_mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cishan/!svn/ver/416/src/application/views/user/resend_confirm_mail.php
+END
+register.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cishan/!svn/ver/436/src/application/views/user/register.php
+END
+reset_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cishan/!svn/ver/416/src/application/views/user/reset_password.php
+END
+note.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cishan/!svn/ver/41/src/application/views/user/note.php
+END
+notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cishan/!svn/ver/379/src/application/views/user/notification.php
+END
+change_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cishan/!svn/ver/416/src/application/views/user/change_password.php
+END
+forget_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cishan/!svn/ver/416/src/application/views/user/forget_password.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cishan/!svn/ver/434/src/application/views/user/login.php
+END

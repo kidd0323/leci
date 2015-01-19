@@ -1,0 +1,18 @@
+
+	  .back-to {
+		width: 110px; right: 155px; bottom: 35px; overflow: hidden; position: fixed; z-index: 999;
+	  }
+	  .back-to .back-top {
+	   	background: url("../images/back-top.png") no-repeat 0px 0px; 
+	   	outline: 0px; 
+	   	width: 50px; 
+	   	height: 50px; 
+	   	text-indent: -9999em; 
+	   	margin-left: 10px; 
+	   	float: right; 
+	   	display: block;
+      }
+      .back-to .back-top:hover {
+		background-position: -50px 0px;
+      }
+

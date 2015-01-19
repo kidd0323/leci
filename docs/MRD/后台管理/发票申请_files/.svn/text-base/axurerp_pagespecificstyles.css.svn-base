@@ -1,0 +1,2224 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_original {
+    background-image: url('../顶导_files/u0_original.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1260px;
+    height:119px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1266px;
+    height:125px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:1256px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:0px;
+    top:1px;
+    width:1260px;
+    height:119px
+}
+
+.u2_original {
+    background-image: url('../顶导_files/u2_original.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:488px;
+    top:40px;
+    width:50px;
+    height:50px;
+}
+
+#u2_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:50px;
+    height:50px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:488px;
+    top:40px;
+    width:50px;
+    height:50px
+}
+
+.u4 {
+    position:absolute;
+    left:570px;
+    top:42px;
+    width:330px;
+    height:46px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_original {
+    background-image: url('../顶导_files/u5_original.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:1261px;
+    height:30px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1267px;
+    height:36px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:1257px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5 {
+    position:absolute;
+    left:0px;
+    top:120px;
+    width:1261px;
+    height:30px
+}
+
+#u8 {
+    position:absolute;
+    left:342px;
+    top:270px;
+    width:743px;
+    height:322px
+}
+
+.u8_table {
+    background-image: url('../发票申请_files/u8_table.png');
+}
+
+.u8_table {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:747px;
+    height:326px;
+}
+
+.u9_original {
+    background-image: url('../发票申请_files/u9_original.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:42px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:56px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:60px;
+    height:42px
+}
+
+.u11_original {
+    background-image: url('../发票申请_files/u11_original.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:60px;
+    top:0px;
+    width:65px;
+    height:42px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:61px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:60px;
+    top:0px;
+    width:65px;
+    height:42px
+}
+
+.u13_original {
+    background-image: url('../发票申请_files/u13_original.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:125px;
+    top:0px;
+    width:55px;
+    height:42px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:125px;
+    top:0px;
+    width:55px;
+    height:42px
+}
+
+.u15_original {
+    background-image: url('../发票申请_files/u13_original.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:180px;
+    top:0px;
+    width:55px;
+    height:42px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:180px;
+    top:0px;
+    width:55px;
+    height:42px
+}
+
+.u17_original {
+    background-image: url('../发票申请_files/u13_original.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:234px;
+    top:0px;
+    width:55px;
+    height:42px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:51px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:234px;
+    top:0px;
+    width:55px;
+    height:42px
+}
+
+.u19_original {
+    background-image: url('../发票申请_files/u19_original.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:289px;
+    top:0px;
+    width:66px;
+    height:42px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19 {
+    position:absolute;
+    left:289px;
+    top:0px;
+    width:66px;
+    height:42px
+}
+
+.u21_original {
+    background-image: url('../发票申请_files/u21_original.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:355px;
+    top:0px;
+    width:49px;
+    height:42px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:45px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21 {
+    position:absolute;
+    left:355px;
+    top:0px;
+    width:49px;
+    height:42px
+}
+
+.u23_original {
+    background-image: url('../发票申请_files/u23_original.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:405px;
+    top:0px;
+    width:63px;
+    height:42px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:59px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:405px;
+    top:0px;
+    width:63px;
+    height:42px
+}
+
+.u25_original {
+    background-image: url('../发票申请_files/u25_original.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:468px;
+    top:0px;
+    width:196px;
+    height:42px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:192px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25 {
+    position:absolute;
+    left:468px;
+    top:0px;
+    width:196px;
+    height:42px
+}
+
+.u27_original {
+    background-image: url('../发票申请_files/u27_original.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:663px;
+    top:0px;
+    width:75px;
+    height:42px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:71px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27 {
+    position:absolute;
+    left:663px;
+    top:0px;
+    width:75px;
+    height:42px
+}
+
+.u29_original {
+    background-image: url('../发票申请_files/u29_original.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:0px;
+    top:42px;
+    width:60px;
+    height:58px;
+}
+
+.u30 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:0px;
+    top:42px;
+    width:60px;
+    height:58px
+}
+
+.u31_original {
+    background-image: url('../发票申请_files/u31_original.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:60px;
+    top:42px;
+    width:65px;
+    height:58px;
+}
+
+.u32 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:59px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:60px;
+    top:42px;
+    width:65px;
+    height:58px
+}
+
+.u33_original {
+    background-image: url('../发票申请_files/u33_original.png');
+}
+
+.u33_container {
+    position:absolute;
+    left:125px;
+    top:42px;
+    width:55px;
+    height:58px;
+}
+
+.u34 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:125px;
+    top:42px;
+    width:55px;
+    height:58px
+}
+
+.u35_original {
+    background-image: url('../发票申请_files/u33_original.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:180px;
+    top:42px;
+    width:55px;
+    height:58px;
+}
+
+.u36 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35 {
+    position:absolute;
+    left:180px;
+    top:42px;
+    width:55px;
+    height:58px
+}
+
+.u37_original {
+    background-image: url('../发票申请_files/u33_original.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:234px;
+    top:42px;
+    width:55px;
+    height:58px;
+}
+
+.u38 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:234px;
+    top:42px;
+    width:55px;
+    height:58px
+}
+
+.u39_original {
+    background-image: url('../发票申请_files/u39_original.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:289px;
+    top:42px;
+    width:66px;
+    height:58px;
+}
+
+.u40 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:60px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:289px;
+    top:42px;
+    width:66px;
+    height:58px
+}
+
+.u41_original {
+    background-image: url('../发票申请_files/u41_original.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:355px;
+    top:42px;
+    width:49px;
+    height:58px;
+}
+
+.u42 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:43px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:355px;
+    top:42px;
+    width:49px;
+    height:58px
+}
+
+.u43_original {
+    background-image: url('../发票申请_files/u43_original.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:405px;
+    top:42px;
+    width:63px;
+    height:58px;
+}
+
+.u44 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:57px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:405px;
+    top:42px;
+    width:63px;
+    height:58px
+}
+
+.u45_original {
+    background-image: url('../发票申请_files/u45_original.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:468px;
+    top:42px;
+    width:196px;
+    height:58px;
+}
+
+.u46 {
+    position:absolute;
+    left:3px;
+    top:20px;
+    width:190px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:468px;
+    top:42px;
+    width:196px;
+    height:58px
+}
+
+.u47_original {
+    background-image: url('../发票申请_files/u47_original.png');
+}
+
+.u47_container {
+    position:absolute;
+    left:663px;
+    top:42px;
+    width:75px;
+    height:58px;
+}
+
+.u48 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:69px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u47 {
+    position:absolute;
+    left:663px;
+    top:42px;
+    width:75px;
+    height:58px
+}
+
+.u49_original {
+    background-image: url('../发票申请_files/u49_original.png');
+}
+
+.u49_container {
+    position:absolute;
+    left:0px;
+    top:100px;
+    width:60px;
+    height:70px;
+}
+
+.u50 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u49 {
+    position:absolute;
+    left:0px;
+    top:100px;
+    width:60px;
+    height:70px
+}
+
+.u51_original {
+    background-image: url('../发票申请_files/u51_original.png');
+}
+
+.u51_container {
+    position:absolute;
+    left:60px;
+    top:100px;
+    width:65px;
+    height:70px;
+}
+
+.u52 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:59px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:60px;
+    top:100px;
+    width:65px;
+    height:70px
+}
+
+.u53_original {
+    background-image: url('../发票申请_files/u53_original.png');
+}
+
+.u53_container {
+    position:absolute;
+    left:125px;
+    top:100px;
+    width:55px;
+    height:70px;
+}
+
+.u54 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u53 {
+    position:absolute;
+    left:125px;
+    top:100px;
+    width:55px;
+    height:70px
+}
+
+.u55_original {
+    background-image: url('../发票申请_files/u53_original.png');
+}
+
+.u55_container {
+    position:absolute;
+    left:180px;
+    top:100px;
+    width:55px;
+    height:70px;
+}
+
+.u56 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u55 {
+    position:absolute;
+    left:180px;
+    top:100px;
+    width:55px;
+    height:70px
+}
+
+.u57_original {
+    background-image: url('../发票申请_files/u53_original.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:234px;
+    top:100px;
+    width:55px;
+    height:70px;
+}
+
+.u58 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:234px;
+    top:100px;
+    width:55px;
+    height:70px
+}
+
+.u59_original {
+    background-image: url('../发票申请_files/u59_original.png');
+}
+
+.u59_container {
+    position:absolute;
+    left:289px;
+    top:100px;
+    width:66px;
+    height:70px;
+}
+
+.u60 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:60px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:289px;
+    top:100px;
+    width:66px;
+    height:70px
+}
+
+.u61_original {
+    background-image: url('../发票申请_files/u61_original.png');
+}
+
+.u61_container {
+    position:absolute;
+    left:355px;
+    top:100px;
+    width:49px;
+    height:70px;
+}
+
+.u62 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:43px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:355px;
+    top:100px;
+    width:49px;
+    height:70px
+}
+
+.u63_original {
+    background-image: url('../发票申请_files/u63_original.png');
+}
+
+.u63_container {
+    position:absolute;
+    left:405px;
+    top:100px;
+    width:63px;
+    height:70px;
+}
+
+.u64 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:57px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u63 {
+    position:absolute;
+    left:405px;
+    top:100px;
+    width:63px;
+    height:70px
+}
+
+.u65_original {
+    background-image: url('../发票申请_files/u65_original.png');
+}
+
+.u65_container {
+    position:absolute;
+    left:468px;
+    top:100px;
+    width:196px;
+    height:70px;
+}
+
+.u66 {
+    position:absolute;
+    left:3px;
+    top:26px;
+    width:190px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u65 {
+    position:absolute;
+    left:468px;
+    top:100px;
+    width:196px;
+    height:70px
+}
+
+.u67_original {
+    background-image: url('../发票申请_files/u67_original.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:663px;
+    top:100px;
+    width:75px;
+    height:70px;
+}
+
+.u68 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:69px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67 {
+    position:absolute;
+    left:663px;
+    top:100px;
+    width:75px;
+    height:70px
+}
+
+.u69_original {
+    background-image: url('../发票申请_files/u69_original.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:0px;
+    top:170px;
+    width:60px;
+    height:77px;
+}
+
+.u70 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69 {
+    position:absolute;
+    left:0px;
+    top:170px;
+    width:60px;
+    height:77px
+}
+
+.u71_original {
+    background-image: url('../发票申请_files/u71_original.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:60px;
+    top:170px;
+    width:65px;
+    height:77px;
+}
+
+.u72 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:59px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:60px;
+    top:170px;
+    width:65px;
+    height:77px
+}
+
+.u73_original {
+    background-image: url('../发票申请_files/u73_original.png');
+}
+
+.u73_container {
+    position:absolute;
+    left:125px;
+    top:170px;
+    width:55px;
+    height:77px;
+}
+
+.u74 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:125px;
+    top:170px;
+    width:55px;
+    height:77px
+}
+
+.u75_original {
+    background-image: url('../发票申请_files/u73_original.png');
+}
+
+.u75_container {
+    position:absolute;
+    left:180px;
+    top:170px;
+    width:55px;
+    height:77px;
+}
+
+.u76 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:180px;
+    top:170px;
+    width:55px;
+    height:77px
+}
+
+.u77_original {
+    background-image: url('../发票申请_files/u73_original.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:234px;
+    top:170px;
+    width:55px;
+    height:77px;
+}
+
+.u78 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:234px;
+    top:170px;
+    width:55px;
+    height:77px
+}
+
+.u79_original {
+    background-image: url('../发票申请_files/u79_original.png');
+}
+
+.u79_container {
+    position:absolute;
+    left:289px;
+    top:170px;
+    width:66px;
+    height:77px;
+}
+
+.u80 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:60px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:289px;
+    top:170px;
+    width:66px;
+    height:77px
+}
+
+.u81_original {
+    background-image: url('../发票申请_files/u81_original.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:355px;
+    top:170px;
+    width:49px;
+    height:77px;
+}
+
+.u82 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:43px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:355px;
+    top:170px;
+    width:49px;
+    height:77px
+}
+
+.u83_original {
+    background-image: url('../发票申请_files/u83_original.png');
+}
+
+.u83_container {
+    position:absolute;
+    left:405px;
+    top:170px;
+    width:63px;
+    height:77px;
+}
+
+.u84 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:57px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:405px;
+    top:170px;
+    width:63px;
+    height:77px
+}
+
+.u85_original {
+    background-image: url('../发票申请_files/u85_original.png');
+}
+
+.u85_container {
+    position:absolute;
+    left:468px;
+    top:170px;
+    width:196px;
+    height:77px;
+}
+
+.u86 {
+    position:absolute;
+    left:3px;
+    top:30px;
+    width:190px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:468px;
+    top:170px;
+    width:196px;
+    height:77px
+}
+
+.u87_original {
+    background-image: url('../发票申请_files/u87_original.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:663px;
+    top:170px;
+    width:75px;
+    height:77px;
+}
+
+.u88 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:69px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87 {
+    position:absolute;
+    left:663px;
+    top:170px;
+    width:75px;
+    height:77px
+}
+
+.u89_original {
+    background-image: url('../发票申请_files/u49_original.png');
+}
+
+.u89_container {
+    position:absolute;
+    left:0px;
+    top:247px;
+    width:60px;
+    height:70px;
+}
+
+.u90 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:54px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89 {
+    position:absolute;
+    left:0px;
+    top:247px;
+    width:60px;
+    height:70px
+}
+
+.u91_original {
+    background-image: url('../发票申请_files/u51_original.png');
+}
+
+.u91_container {
+    position:absolute;
+    left:60px;
+    top:247px;
+    width:65px;
+    height:70px;
+}
+
+.u92 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:59px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:60px;
+    top:247px;
+    width:65px;
+    height:70px
+}
+
+.u93_original {
+    background-image: url('../发票申请_files/u53_original.png');
+}
+
+.u93_container {
+    position:absolute;
+    left:125px;
+    top:247px;
+    width:55px;
+    height:70px;
+}
+
+.u94 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93 {
+    position:absolute;
+    left:125px;
+    top:247px;
+    width:55px;
+    height:70px
+}
+
+.u95_original {
+    background-image: url('../发票申请_files/u53_original.png');
+}
+
+.u95_container {
+    position:absolute;
+    left:180px;
+    top:247px;
+    width:55px;
+    height:70px;
+}
+
+.u96 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:180px;
+    top:247px;
+    width:55px;
+    height:70px
+}
+
+.u97_original {
+    background-image: url('../发票申请_files/u53_original.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:234px;
+    top:247px;
+    width:55px;
+    height:70px;
+}
+
+.u98 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97 {
+    position:absolute;
+    left:234px;
+    top:247px;
+    width:55px;
+    height:70px
+}
+
+.u99_original {
+    background-image: url('../发票申请_files/u59_original.png');
+}
+
+.u99_container {
+    position:absolute;
+    left:289px;
+    top:247px;
+    width:66px;
+    height:70px;
+}
+
+.u100 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:60px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99 {
+    position:absolute;
+    left:289px;
+    top:247px;
+    width:66px;
+    height:70px
+}
+
+.u101_original {
+    background-image: url('../发票申请_files/u61_original.png');
+}
+
+.u101_container {
+    position:absolute;
+    left:355px;
+    top:247px;
+    width:49px;
+    height:70px;
+}
+
+.u102 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:43px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101 {
+    position:absolute;
+    left:355px;
+    top:247px;
+    width:49px;
+    height:70px
+}
+
+.u103_original {
+    background-image: url('../发票申请_files/u63_original.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:405px;
+    top:247px;
+    width:63px;
+    height:70px;
+}
+
+.u104 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:57px;
+    height:40px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103 {
+    position:absolute;
+    left:405px;
+    top:247px;
+    width:63px;
+    height:70px
+}
+
+.u105_original {
+    background-image: url('../发票申请_files/u65_original.png');
+}
+
+.u105_container {
+    position:absolute;
+    left:468px;
+    top:247px;
+    width:196px;
+    height:70px;
+}
+
+.u106 {
+    position:absolute;
+    left:3px;
+    top:26px;
+    width:190px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:468px;
+    top:247px;
+    width:196px;
+    height:70px
+}
+
+.u107_original {
+    background-image: url('../发票申请_files/u67_original.png');
+}
+
+.u107_container {
+    position:absolute;
+    left:663px;
+    top:247px;
+    width:75px;
+    height:70px;
+}
+
+.u108 {
+    position:absolute;
+    left:3px;
+    top:3px;
+    width:69px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107 {
+    position:absolute;
+    left:663px;
+    top:247px;
+    width:75px;
+    height:70px
+}
+
+.u109_original {
+    background-image: url('../左导_files/u11_original.png');
+}
+
+.u109_container {
+    position:absolute;
+    left:231px;
+    top:151px;
+    width:100px;
+    height:339px;
+}
+
+#u109_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:345px;
+}
+
+.u110 {
+    position:absolute;
+    left:2px;
+    top:162px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109 {
+    position:absolute;
+    left:231px;
+    top:151px;
+    width:100px;
+    height:339px
+}
+
+.u111 {
+    position:absolute;
+    left:244px;
+    top:195px;
+    width:64px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:244px;
+    top:231px;
+    width:53px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113 {
+    position:absolute;
+    left:244px;
+    top:268px;
+    width:87px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u114 {
+    position:absolute;
+    left:244px;
+    top:301px;
+    width:68px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115 {
+    position:absolute;
+    left:244px;
+    top:333px;
+    width:67px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117 {
+    position:absolute;
+    left:233px;
+    top:126px;
+    width:240px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u118 {
+    position:absolute;
+    left:385px;
+    top:163px;
+    width:60px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u119 {
+    position:absolute;
+    left:447px;
+    top:160px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u120 {
+    position:absolute;
+    left:615px;
+    top:160px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u121 {
+    position:absolute;
+    left:553px;
+    top:163px;
+    width:60px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122 {
+    position:absolute;
+    left:725px;
+    top:160px;
+    width:80px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u123 {
+    position:absolute;
+    left:337px;
+    top:163px;
+    width:53px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124 {
+    position:absolute;
+    left:338px;
+    top:196px;
+    width:53px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u125 {
+    position:absolute;
+    left:388px;
+    top:196px;
+    width:180px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u126 {
+    position:absolute;
+    left:337px;
+    top:233px;
+    width:93px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u127 {
+    position:absolute;
+    left:430px;
+    top:233px;
+    width:180px;
+    height:25px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u128 {
+    position:absolute;
+    left:586px;
+    top:195px;
+    width:80px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u129 {
+    position:absolute;
+    left:620px;
+    top:233px;
+    width:80px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u130 {
+    position:absolute;
+    left:980px;
+    top:165px;
+    width:100px;
+    height:25px;
+    ;
+    ;
+    text-align: center;;
+    font-family:'微软雅黑';
+    font-size: 14px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+

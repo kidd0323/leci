@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cishan/!svn/ver/429/src/application/libraries/alipay
+END
+alipay_core.function.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cishan/!svn/ver/429/src/application/libraries/alipay/alipay_core.function.php
+END
+AlipayService.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cishan/!svn/ver/418/src/application/libraries/alipay/AlipayService.php
+END
+alipay_submit.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cishan/!svn/ver/418/src/application/libraries/alipay/alipay_submit.class.php
+END
+AlipayNotify.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cishan/!svn/ver/420/src/application/libraries/alipay/AlipayNotify.php
+END

@@ -1,0 +1,27 @@
+﻿cs_passport password->varchar(48)  			
+	理由：not enough
+cs_volunteer_feedback    vid=>uid			
+	理由：和其他表中表示用户ID的标识一致
+cs_project  i_id=>iid						
+	理由：keep consistant with cs_item and t_globalid table
+cs_project 	+ short_description varchar(128)	
+	理由：用于推荐是的短理由也需要存储
+cs_possession + money (现在已经捐了多少钱)		
+	理由：冗余，用于显示每个项目目前已经捐了多少钱
+cs_message 用1表示匿名... 
+	理由（和donate表里的统一...) 
+cs_message content=>varchar(256) 
+	理由：本来太短了...
+cs_invoice	添加 pid ,uid
+	理由：用于发布求助的人查询该项目的发票申请名单（话说这个功能现在还需要啊？？）
+cs_volunteer 添加pid
+	理由：用于发布求助的人查询该项目的志愿者申请名单
+
+.. tobe continue ...
+
+== 疑问 ==
+* 发布求助时联系人信息存到哪里(页面上就只有地址)？  如果存到cs_user 则是否要把address改一下（就是不要pro..,city,dis.. 而是改成一个域address）
+* 昵称是否也要唯一
+* 项目不是还需要添加 short_description 吗？
+
+* 登录后再登陆问题
